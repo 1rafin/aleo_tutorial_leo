@@ -1,6 +1,6 @@
 # lottery.aleo
 
-## Run Guide
+## Guide
 
 To run this program, run:
 ```bash
